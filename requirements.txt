@@ -1,0 +1,10 @@
+streamlit
+networkx
+requests
+pyyaml
+openai
+graphviz
+pyttsx3
+chromadb
+sentence-transformers
+opencv-python-headless
